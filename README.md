@@ -1,5 +1,5 @@
-# USA IS THE BEST (USA VS CANADA)
-### Data Visialization of Olympic Data
+# Data Visialization of Olympic Data 
+## USA IS THE BEST (USA VS CANADA)
 
 ![](images/skiing.jpg "data visualization banner")
 

@@ -1,0 +1,222 @@
+@charset "UTF-8";
+
+body {
+	font-family: Helvetica, Arial, sans-serif;
+	background-image: 
+}
+
+/*---Header Styling starts---*/
+
+.Uslogo
+{
+	max-width: 1700px;
+	margin: auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.Uslogo img
+{
+	width: 130px;
+	margin-top: -25px;
+	height: auto;
+	/*margin-right: 1600px;*/
+}
+
+.headerBox
+{
+	width: 1900px;
+	height: 80px;
+	background-color: #3C50A8;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+
+.headImage, .title
+{
+	max-width: 1700px;
+	margin: auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.headImage img
+{
+	width: 1700px;
+	height: auto;	
+	opacity: 0.1;
+}
+
+.title p
+{
+	font-weight: bold;
+	font-size: 60px;
+	margin-top: -330px;
+	color: darkblue;
+}
+
+/*---Header Styling ends---*/
+
+/*---Main tag Styling starts---*/
+
+.introduction, .charts
+{
+	max-width: 1700px;
+	margin: auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.introduction p
+{
+	font-size: 25px;
+	margin-top: 25px;
+	text-align: justify;
+}
+
+.charts p
+{
+	font-size: 30px;
+	margin-top: 50px;
+	font-weight: bolder;
+	color: darkblue;
+	text-align: justify;
+}
+
+.firstPie, .firstBar, .secondLine
+{
+	max-width: 1700px;
+	margin: auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	margin-top: 100px;
+}
+
+.pieText p
+{
+	font-size: 25px;
+	margin-left: 100px;
+	margin-top: 10px;
+	text-align: justify;
+	background-color: #D1FFFF;
+	padding: 20px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	border-radius: 20px;
+}
+
+.firstLine, .secondPie, .secondBar
+{
+	max-width: 1700px;
+	margin: auto;
+	display: flex;
+	flex-direction: row-reverse;
+	justify-content: flex-start;
+	margin-top: 100px;
+}
+
+.lineText p
+{
+	font-size: 25px;
+	margin-right: 60px;
+	margin-top: 50px;
+	text-align: justify;
+	background-color: #D1FFFF;
+	padding: 20px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	border-radius: 20px;
+}
+
+.barText p
+{
+	font-size: 25px;
+	margin-left: 100px;
+	margin-top: 30px;
+	text-align: justify;
+	background-color: #D1FFFF;
+	padding: 20px;
+	padding-top: 60px;
+	padding-bottom: 60px;
+	border-radius: 20px;
+}
+
+.pieCanText p
+{
+	font-size: 25px;
+	margin-left: 100px;
+	margin-top: 20px;
+	text-align: justify;
+	background-color: #D1FFFF;
+	padding: 20px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	border-radius: 20px;
+}
+
+.canLineText p
+{
+
+	font-size: 25px;
+	margin-left: 100px;
+	margin-top: 75px;
+	text-align: justify;
+	background-color: #D1FFFF;
+	padding: 20px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	border-radius: 20px;
+}
+
+.barCanText p
+{
+	font-size: 25px;
+	margin-right: 100px;
+	margin-top: 50px;
+	text-align: justify;
+	background-color: #D1FFFF;
+	padding: 20px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	border-radius: 20px;
+}
+
+/*---Main tag Styling ends---*/
+
+/*---Footer Styling starts---*/
+
+.footerBox
+{
+	width: 1900px;
+	height: 80px;
+	margin-top: 50px;
+	background-color: #3C50A8;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.logo
+{
+	max-width: 1700px;
+	margin: auto;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.logo img
+{
+	width: 130px;
+	height: auto;
+	/*margin-right: 1600px;*/
+}
+
+
+/*---Footer Styling ends---*/
